@@ -1,7 +1,7 @@
 import React from 'react';
 import { Table } from 'antd';
 import { ClockCircleOutlined } from '@ant-design/icons';
-import './ServiceTable.css'; // Importing custom CSS
+import './serviceTable.css'; 
 import { BsInfoCircle } from 'react-icons/bs';
 
 const dataSource = [
